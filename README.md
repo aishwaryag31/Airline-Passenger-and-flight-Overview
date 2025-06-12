@@ -54,3 +54,4 @@ To analyze and visualize global airline passenger trends and operational perform
 ### 💼 **Project Outcome for Resume:**
 
 > **Airline Analytics Dashboard (Power BI):** Built an interactive Power BI dashboard using a dataset of 98K+ passengers to analyze flight status, passenger demographics, disruptions, and airport traffic. Used advanced DAX measures, custom sorting, and dynamic visuals to derive insights across continents and time. Enhanced report usability through slicers, custom tooltips, and interlinked visuals.
+---
